@@ -4,6 +4,7 @@ from io import BytesIO
 import sqlite3
 import pandas as pd
 import streamlit as st
+import openpyxl
 
 # ============================================================
 # CONFIGURATION & PAGE SETUP
